@@ -4,19 +4,19 @@
 Information systems, digital media distribution, business and consulting professional with more than 25 years of knowledge and expertise in cloud infrastructure supporting machine learning and advanced distributed technologies. Proven track record of complex technical problem solving, delivering ROIs and managing relationships with both internal and external teams. A decisive leader and developer with a passion for technology and a history of hiring, mentoring, training and retaining personnel. Excellent leadership skills with an emphasis on product and educational growth opportunities.
 
 ## Education
-B.S., Electrical Engineering
-University of Tennessee - Knoxville, 
+Bachelors of Science, Electrical Engineering
+University of Tennessee - Knoxville
 Knoxville, TN
 
 ## Areas of Expertise
 
 - Site Reliability Engineering (SRE)
-- Microservices Architecture
-- Distributed systems architecture design & administration
-- Github administration & usage
-- Comfortable on command-line interface (CLI)
+- Network and Systems Architecture
+- IT Management
+- Microservices, Distributed Architecture Design & Administration
+- Expert on command-line interface (CLI)
 - Migration of on-premise infrastructure to cloud
-- Cloud administration, budgeting & reporting
+- Financial Ops : Cloud Account Analysis and Administration
 - Customer relations & management
 - Zero trust security
 
@@ -29,6 +29,11 @@ Knoxville, TN
 - Microsoft SQL Server, PostgreSQL & MySQL
 - Terraform, Ansible & Jenkins
 - Linux, MacOS & Windows operating systems
+
+## Current Tools in Rotation
+- Kubernetes - istio, cluster administration, helm
+- Apache Kakfa - cluster adminsitration and metrics
+- Python - aws / azure api
 
 ## Recent Experience
 DIRECTOR OF CLOUD ENGINEERING
