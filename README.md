@@ -1,7 +1,7 @@
 # cv
 
 ## Professional Summary
-Information systems, digital media distribution, business and consulting professional with more than 25 years of knowledge and expertise in cloud infrastructure supporting machine learning and advanced distributed technologies. Proven track record of complex technical problem solving, delivering ROIs and managing relationships with both internal and external teams. A decisive leader and developer with a passion for technology and a history of hiring, mentoring, training and retaining personnel. Excellent leadership skills with an emphasis on product and educational growth opportunities.
+Problem solving and technology translation specialist. Advocate for open source at scale in produciton settings.
 
 ## Education
 Bachelors of Science, Electrical Engineering
