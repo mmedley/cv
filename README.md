@@ -14,9 +14,9 @@ Knoxville, TN
 - Microservices, Distributed Architecture Design & Administration
 - Database design and administration
 - Site Reliability Engineering (SRE)
+- Financial Ops
 - Expert on command-line interface (CLI)
 - Migration of on-premise infrastructure to cloud
-- Financial Ops : Cloud Account Analysis and Administration
 - Customer relations & management
 - Zero trust security
 - IT Management
