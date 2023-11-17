@@ -10,15 +10,16 @@ Knoxville, TN
 
 ## Areas of Expertise
 
-- Site Reliability Engineering (SRE)
 - Network and Systems Architecture
-- IT Management
 - Microservices, Distributed Architecture Design & Administration
+- Database design and administration
+- Site Reliability Engineering (SRE)
 - Expert on command-line interface (CLI)
 - Migration of on-premise infrastructure to cloud
 - Financial Ops : Cloud Account Analysis and Administration
 - Customer relations & management
 - Zero trust security
+- IT Management
 
 ## Skills
 - Google Cloud Platform, Amazon Web Services & Microsoft Azure in production
